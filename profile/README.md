@@ -1,7 +1,7 @@
 # Welcome to Halbritter Lab's GitHub Repository
 
 <p align="center">
-    <img src="static/img/halbritter-lab_logo.svg" alt="Halbitter-Lab logo" width="192" height="192">
+    <img src="static/img/halbritter-lab_logo.png" alt="Halbitter-Lab logo" width="180" height="180">
 </p>
 
 
