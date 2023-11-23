@@ -1,5 +1,11 @@
 # Welcome to Halbritter Lab's GitHub Repository
 
+<p align="center">
+    <img src="static/img/halbritter-lab_logo.svg" alt="Halbitter-Lab logo" width="192" height="192">
+</p>
+
+
+
 ## About us 🌐
 
 Welcome to the Halbritter Lab, an research group led by Prof. Dr. med. Jan Halbritter. Our laboratory is part of the Charité - Universitätsmedizin Berlin, a renowned medical institution in Germany. The Halbritter Lab specializes in nephrology, internal medicine, and intensive care medicine, with a particular emphasis on rare kidney diseases.
