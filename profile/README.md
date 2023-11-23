@@ -1,10 +1,6 @@
 # Welcome to Halbritter Lab's GitHub Repository
 
-<p align="center">
-    <img src="static/img/halbritter-lab_logo.png" alt="Halbitter-Lab logo" width="180" height="180">
-</p>
-
-
+![logo](static/img/halbritter-lab_logo.png)
 
 ## About us 🌐
 
