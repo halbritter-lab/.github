@@ -1,6 +1,6 @@
 # Welcome to Halbritter Lab's GitHub Repository
 
-![logo](static/img/halbritter-lab_logo.png)
+![logo](profile/static/img/halbritter-lab_logo.png)
 
 ## About us 🌐
 
@@ -8,7 +8,7 @@ Welcome to the Halbritter Lab, an research group led by Prof. Dr. med. Jan Halbr
 
 
 ## Contact us 📬
-For more information about our research or to discuss potential collaborations, please contact Prof. Dr. med. Jan Halbritter at 
+For more information about our research or to discuss potential collaborations, please contact Prof. Dr. med. Jan Halbritter at:
 - 📧 jan.halbritter[at]charite.de
 
 
